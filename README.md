@@ -8,7 +8,7 @@
 </div>
 </div>
 <div align="center">
-  <img src="https://media.tenor.com/DA8Rdzkbx6IAAAAM/jope.gif" width="600"/>
+  <img src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width="400"/>
 </div>
 
 ### <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30" /> About Me :
@@ -21,6 +21,8 @@ Front-End Developer 18 y.o. based in Kazakhstan.
 - 🦾 In my free time, I'm developing in the technical direction, viewing and studying new and current technologies, playing games, reading books and watching a lot of extraordinary films
 
 - ✉️ Contact me: https://t.me/klyutko7p or klyutko.d@gmail.com
+
+💻 More information on – https://rainbow-mermaid-45c0f8.netlify.app/
 
 ### 🧠 Languages and Tools :
 
