@@ -12,17 +12,17 @@
 </div>
 
 ### <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30" /> About Me :
-Front-End Developer based in Kazakhstan.
+Front-End Developer 18 y.o. based in Kazakhstan.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🎒 I'm studying at the Polytechnic College of Astana in the 3rd year of study to become a programmer technician.
 
-- :seedling: Exploring Technical Content Writing.
+- ⚒️ I study the creation and modification of Front-end projects in various fields.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🦾 In my free time, I'm developing in the technical direction, viewing and studying new and current technologies, playing games, reading books and watching a lot of extraordinary films
 
-- :mailbox:How to reach me: https://t.me/klyutko7p or klyutko.d@gmail.com
+- ✉️ Contact me: https://t.me/klyutko7p or klyutko.d@gmail.com
 
-### :hammer_and_wrench: Languages and Tools :
+### 🧠 Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="65" height="40"/>&nbsp;
@@ -39,3 +39,7 @@ Front-End Developer based in Kazakhstan.
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="65" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="65" height="40"/>&nbsp;
 </div>
+
+### ❤️‍🔥 Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klyutko7p&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
