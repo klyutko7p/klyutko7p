@@ -22,7 +22,7 @@ Front-End Developer 18 y.o. based in Kazakhstan.
 
 - ✉️ Contact me: https://t.me/klyutko7p or klyutko.d@gmail.com
 
-💻 More information on – https://rainbow-mermaid-45c0f8.netlify.app/
+💻 More information on – https://nimble-youtiao-b91a71.netlify.app/
 
 ### 🧠 Languages and Tools :
 
