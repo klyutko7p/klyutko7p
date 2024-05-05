@@ -24,7 +24,7 @@ Front-End разработчик, 19 лет, из России, Екатерин
 
 💻 Более подробная информация на – https://klyutko7p.netlify.app/
 
-### 🧠 Languages and Tools :
+### 🧠 Языки программирования и инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="65" height="40"/>&nbsp;
