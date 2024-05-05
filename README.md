@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div id="badges">
       <h1>
-  Hello, I'm Daniel. 
+  Привет, Я – Даниил. 
   <img src="https://media.tenor.com/3lcf0JZoUE4AAAAi/human-hand.gif" width="30px"/>
 
 </h1>
@@ -12,17 +12,17 @@
 </div>
 
 ### <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30" /> About Me :
-Front-End Developer 18 y.o. based in Kazakhstan.
+Front-End разработчик, 19 лет, из России, Екатеринбург.
 
-- 🎒 I'm studying at the Polytechnic College of Astana in the 3rd year of study to become a programmer technician.
+- 🎒 Закончил Политехнический колледж г. Астана с красным дипломом на специальности "Техник-программист".
 
-- ⚒️ I study the creation and modification of Front-end projects in various fields.
+- ⚒️ Я изучаю создание и улучшение Front-end проектов в различных областях.
 
-- 🦾 In my free time, I'm developing in the technical direction, viewing and studying new and current technologies, playing games, reading books and watching a lot of extraordinary films
+- 🦾 В свободное время я развиваюсь в техническом направлении, просматриваю и изучаю новые и актуальные технологии, играю в игры, читаю книги и увлекаюсь политикой
 
-- ✉️ Contact me: https://t.me/klyutko7p or klyutko.d@gmail.com
+- ✉️ Связаться со мной: https://t.me/klyutko7p или klyutko.d@gmail.com
 
-💻 More information on – https://zippy-hummingbird-5eba63.netlify.app/
+💻 Более подробная информация на – https://klyutko7p.netlify.app/
 
 ### 🧠 Languages and Tools :
 
