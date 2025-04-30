@@ -6,9 +6,6 @@
 </h1>
 </div>
 </div>
-<div align="center">
-  <img src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width="400"/>
-</div>
 
 ### <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30" /> Обо мне:
 Front-End разработчик, 20 лет, из России, Екатеринбург.
